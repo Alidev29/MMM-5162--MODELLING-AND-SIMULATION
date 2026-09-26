@@ -1,0 +1,5 @@
+Method;v_max_m_s;z8_m;RelErr_vmax_pct;RelErr_z8_pct
+Forward Euler (dt=0.100s);3.0481;12.8491;5.4884;1.7354
+Forward Euler (dt=0.050s);2.9381;12.6479;1.6811;0.1419
+Forward Euler (dt=0.010s);2.8961;12.6243;0.2282;0.045
+ode45 (reference);2.8895;12.6299;0;0
