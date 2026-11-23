@@ -1,0 +1,8 @@
+Parameter,Value,Unit,Source
+Kp,200,V/rad,Representative tuning – PID gains tuned in this file only
+Ki,50,V/(rad*s),Representative tuning – PID gains tuned in this file only
+Kd,5,V*s/rad,Representative tuning – PID gains tuned in this file only
+V_max,24,V,Representative value – replace with datasheet
+tol_deg,0.10,deg,Representative value – baseline controller setting
+update_s,120,s,Representative value – baseline controller setting
+timeout_s,30,s,Representative value – baseline controller setting

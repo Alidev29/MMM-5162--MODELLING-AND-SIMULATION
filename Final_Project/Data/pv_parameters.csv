@@ -1,0 +1,13 @@
+Parameter,Value,Unit,Source
+P_max,400,W,Canadian Solar CS1U-400MS datasheet V5.59 (May 2020); STC
+V_mp,44.1,V,Canadian Solar CS1U-400MS datasheet V5.59 (May 2020); STC
+I_mp,9.08,A,Canadian Solar CS1U-400MS datasheet V5.59 (May 2020); STC
+V_oc,53.4,V,Canadian Solar CS1U-400MS datasheet V5.59 (May 2020); STC
+I_sc,9.60,A,Canadian Solar CS1U-400MS datasheet V5.59 (May 2020); STC
+alpha_sc,0.0048,A/degC,Canadian Solar CS1U-400MS datasheet V5.59 (May 2020): Isc coefficient +0.05 %/degC x I_sc 9.60 A
+beta_voc,-0.15486,V/degC,Canadian Solar CS1U-400MS datasheet V5.59 (May 2020): Voc coefficient -0.29 %/degC x V_oc 53.4 V
+gamma_pmp,-0.37,%/degC,Canadian Solar CS1U-400MS datasheet V5.59 (May 2020): Pmax coefficient
+cells_in_series,72,-,Not given on Canadian Solar CS1U-400MS datasheet V5.59 (May 2020); the fit is insensitive to it (72/78/84 give the same P_mp and gamma)
+noct_c,43,degC,Canadian Solar CS1U-400MS datasheet V5.59 (May 2020): NMOT 43 +/- 3 degC (800 W/m^2; 20 degC air; 1 m/s); used in place of NOCT
+length_m,2.008,m,Kept from v1 so the wind load is unchanged (datasheet size 2.078 m not used; decision of 2026-11-22)
+width_m,1.002,m,Kept from v1 so the wind load is unchanged (datasheet size 0.992 m not used; decision of 2026-11-22)

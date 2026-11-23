@@ -1,0 +1,19 @@
+Parameter,Value,Unit,Source
+R,2.0,ohm,Representative value – replace with datasheet
+L,0.002,H,Representative value – replace with datasheet
+Kt,0.05,N*m/A,Representative value – replace with datasheet
+Ke,0.05,V*s/rad,Representative value – replace with datasheet
+Jm,2e-5,kg*m^2,Representative value – replace with datasheet
+b,1e-5,N*m*s/rad,Representative value – replace with datasheet
+omega_s,0.5,rad/s,Representative value – replace with datasheet
+N,2000,-,Representative value – replace with datasheet
+eta,0.40,-,Representative value – replace with datasheet
+T_rated,0.10,N*m,Representative value – replace with datasheet
+Jp_el,12.0,kg*m^2,Representative value – replace with datasheet
+Jp_az,15.0,kg*m^2,Representative value – replace with datasheet
+ks_el,4000,N*m/rad,Representative value – replace with datasheet
+ks_az,4000,N*m/rad,Representative value – replace with datasheet
+cs_el,13.0,N*m*s/rad,Representative value – replace with datasheet
+cs_az,14.5,N*m*s/rad,Representative value – replace with datasheet
+Cm,0.10,-,Representative value – replace with datasheet
+Lc,1.002,m,Representative value – replace with datasheet

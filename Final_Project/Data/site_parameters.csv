@@ -1,0 +1,7 @@
+Parameter,Value,Unit,Source
+lat_deg,24.4672,deg,Madinah site coordinates (design spec section 2)
+lon_deg,39.6111,deg,Madinah site coordinates (design spec section 2)
+altitude_m,620,m,Madinah site elevation (design spec section 2)
+albedo,0.25,-,Representative value – replace with site measurement
+air_density,1.10,kg/m^3,Representative value – replace with site measurement
+t_air_ref_c,25,degC,STC reference air temperature for the idealised clear-sky validation days (script 01)

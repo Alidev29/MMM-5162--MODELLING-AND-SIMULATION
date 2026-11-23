@@ -1,0 +1,7 @@
+Parameter,Value,Unit,Source
+irradiance_Wm2,800,W/m^2,Canadian Solar CS1U-400MS datasheet V5.59 (May 2020); NMOT conditions
+P_max,296,W,Canadian Solar CS1U-400MS datasheet V5.59 (May 2020); NMOT
+V_mp,40.8,V,Canadian Solar CS1U-400MS datasheet V5.59 (May 2020); NMOT
+I_mp,7.26,A,Canadian Solar CS1U-400MS datasheet V5.59 (May 2020); NMOT
+V_oc,49.9,V,Canadian Solar CS1U-400MS datasheet V5.59 (May 2020); NMOT
+I_sc,7.75,A,Canadian Solar CS1U-400MS datasheet V5.59 (May 2020); NMOT

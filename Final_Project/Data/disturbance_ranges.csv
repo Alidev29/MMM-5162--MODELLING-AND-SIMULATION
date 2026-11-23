@@ -1,0 +1,5 @@
+Parameter,Nominal,Min,Max,Distribution,SD,Unit,Source
+Tc_Nm,0.01,0,0.03,truncnorm,0.004,N*m,Representative value – 0-30% of motor rated torque (datasheets and literature)
+v_mean_mps,4.8,0,15.0,fitted,,m/s,"NASA POWER WS10M 2021-2023, daytime mean (script 02)"
+backlash_deg,0.3,0,1.0,truncnorm,0.15,deg,Representative value – gearbox datasheets (0-1 deg at output)
+tau_d_s,30.0,0,120.0,truncnorm,20.0,s,Representative value – GPS/RTC timing literature (0-120 s)
